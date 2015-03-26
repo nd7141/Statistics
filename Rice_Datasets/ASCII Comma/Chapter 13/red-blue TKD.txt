@@ -1,0 +1,81 @@
+"Weight Class","Red Fighter ID","Blue Fighter ID","Round of Competition","Winner","Method of Win","Points Scored by Red","Points Scored by Blue"
+"under 58kg",5816,5818,"last 16","Blue","Points",2,10
+"under 58kg",5817,5824,"last 16","Blue","Points",1,10
+"under 58kg",5819,5825,"last 16","Red","Points",7,6
+"under 58kg",5820,5822,"last 16","Red","Points",6,5
+"under 58kg",5821,5827,"last 16","Red","Points",5,2
+"under 58kg",5828,5823,"last 16","Red","Referee Stopped Contest",,
+"under 58kg",5830,5826,"last 16","Red","Points",12,10
+"under 58kg",5831,5829,"last 16","Blue","Points",5,7
+"under 58kg",5819,5828,"quaterfinal","Blue","Points",1,9
+"under 58kg",5821,5818,"quaterfinal","Blue","Points",2,8
+"under 58kg",5824,5829,"quaterfinal","Red","Points",6,2
+"under 58kg",5830,5820,"quaterfinal","Red","Points",4,2
+"under 58kg",5824,5830,"semifinal","Red","Points",8,0
+"under 58kg",5828,5818,"semifinal","Red","Points",5,4
+"under 58kg",5824,5828,"final","Blue","Points",1,5
+"under 58kg",5819,5818,"bronze medal","Blue","Points",1,7
+"under 58kg",5817,5818,"repechage","Blue","Withdrawn",,
+"under 58kg",5817,2829,"repechage","Red","Withdrawn",,
+"under 58kg",5819,5823,"repechage","Red","Withdrawn",,
+"under 58kg",5830,5819,"repechage","Blue","Points",0,8
+"under 68kg",6848,6861,"last 16","Red","Points",7,2
+"under 68kg",6850,6858,"last 16","Blue","Points",13,15
+"under 68kg",6851,6862,"last 16","Red","Points",6,5
+"under 68kg",6852,6849,"last 16","Blue","Knockout",,
+"under 68kg",6853,6847,"last 16","Red","Points",11,10
+"under 68kg",6854,6860,"last 16","Blue","Points",1,8
+"under 68kg",6857,6856,"last 16","Blue","Referee Stopped Contest",,
+"under 68kg",6859,6855,"last 16","Blue","Points",7,11
+"under 68kg",6851,6856,"quaterfinal","Blue","Points",6,8
+"under 68kg",6855,6848,"quaterfinal","Red","Points",5,4
+"under 68kg",6858,6853,"quaterfinal","Red","Points",13,11
+"under 68kg",6860,6849,"quaterfinal","Red","Points",10,8
+"under 68kg",6858,6856,"semifinal","Blue","Points",9,9
+"under 68kg",6860,6855,"semifinal","Red","Points",7,5
+"under 68kg",6856,6860,"final","Red","Points",4,3
+"under 68kg",6858,6851,"bronze medal","Red","Points",12,7
+"under 68kg",6849,6854,"repechage","Blue","Points",4,8
+"under 68kg",6851,6855,"repechage","Red","Points",12,10
+"under 68kg",6857,6851,"repechage","Blue","Withdrawn",,
+"under 68kg",6858,6854,"repechage","Red","Points",8,6
+"under 80kg",8078,8082,"last 16","Red","Points",12,6
+"under 80kg",8080,8085,"last 16","Blue","Points",7,8
+"under 80kg",8083,8089,"last 16","Red","Points",16,12
+"under 80kg",8086,8081,"last 16","Blue","Points",10,13
+"under 80kg",8087,8091,"last 16","Blue","Points",11,16
+"under 80kg",8088,8092,"last 16","Blue","Points",9,9
+"under 80kg",8090,8079,"last 16","Blue","Points",3,10
+"under 80kg",8093,8084,"last 16","Red","Points",12,0
+"under 80kg",8079,8081,"quaterfinal","Red","Points",24,17
+"under 80kg",8083,8078,"quaterfinal","Red","Points",13,9
+"under 80kg",8085,8093,"quaterfinal","Blue","Points",2,4
+"under 80kg",8091,9092,"quaterfinal","Blue","Points",4,6
+"under 80kg",8092,8079,"semifinal","Red","Superiority",6,6
+"under 80kg",8093,8083,"semifinal","Red","Points",7,6
+"under 80kg",8093,8092,"final","Red","Points",3,0
+"under 80kg",8083,8079,"bronze medal","Red","Points",9,8
+"under 80kg",8083,8091,"repechage","Red","Points",12,4
+"under 80kg",8084,8085,"repechage","Blue","Withdrawn",,
+"under 80kg",8085,8079,"repechage","Blue","Points",9,9
+"under 80kg",8091,8088,"repechage","Red","Referee Stopped Contest",,
+"over 80kg",81109,81113,"last 16","Blue","Points",2,13
+"over 80kg",81110,81116,"last 16","Blue","Points",3,7
+"over 80kg",81111,81117,"last 16","Red","Points",3,2
+"over 80kg",81112,81118,"last 16","Blue","Points",6,9
+"over 80kg",81114,81124,"last 16","Blue","Points",5,8
+"over 80kg",81115,81122,"last 16","Red","Points",2,0
+"over 80kg",81119,81120,"last 16","Blue","Points",2,7
+"over 80kg",81123,81121,"last 16","Blue","Points",5,8
+"over 80kg",81115,81111,"quaterfinal","Red","Points",4,-1
+"over 80kg",81116,81121,"quaterfinal","Red","Points",5,2
+"over 80kg",81120,81113,"quaterfinal","Red","Points",6,2
+"over 80kg",81124,81118,"quaterfinal","Blue","Points",7,9
+"over 80kg",81116,81118,"semifinal","Red","Points",6,3
+"over 80kg",81120,81115,"semifinal","Red","Points",5,3
+"over 80kg",81120,81116,"final","Red","Knockout",,
+"over 80kg",81115,81118,"bronze medal","Red","Points",6,2
+"over 80kg",81115,81121,"repechage","Red","Points",3,1
+"over 80kg",81119,81118,"repechage","Blue","Points",2,2
+"over 80kg",81119,81113,"repechage","Red","Points",5,5
+"over 80kg",81121,81110,"repechage","Red","Points",6,2

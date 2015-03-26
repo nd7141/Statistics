@@ -1,0 +1,12 @@
+Supplementary information
+
+The original file for Chapter 13 dataset was in Excel format, with multiple worksheets (4). In converting these datasets to the various formats, each worksheet for the Excel file named, "red-blue.xls" was separated into 4 single files, one for each worksheet for the appropriate data format:
+
+"red-blue boxing",
+"red-blue TKD, for 'tae kwon do",
+"red-blue GR" for GR Wrestling, and 
+"red-blue FR" for Free Wrestling.
+
+Methods 
+
+Data for four combat sports (boxing, taekwondo, greco-roman wrestling and freestyle wrestling) where contestants wore either a red or blue outfit (or body protectors in taekwondo) in each bout at the Athens 2004 Olympics were taken from the official Olympics website (http://www.athens2004.com).  Data were recorded on the colour of each participant's outfit, the winner of the bout, the method of victory and the points scored by each competitor (see Tables for individual sports).  Bouts won by walkover were excluded.  The data for the pool matches in the wrestling competitions were also subsequently excluded on two grounds.  Firstly, if the winner (or loser) of the group was decided before the final bout was fought then the motivation and commitment of one (or both) contestants is inevitably compromised leading to artificial asymmetries in the fight.  Secondly, since for every pool of three each competitor wears red and blue once, and since the majority of pools were decided by a single individual winning both bouts, the competition design actually controls for any potential colour advantage.  In order to identify where the effects of colour were most evident, bouts were recoded into different classes of contest asymmetry on the basis of the difference in points scored by each competitor.  For each sport, every contest was categorized on the basis of the quartile of the final points difference in the bout, where the first quartile of points difference represents symmetrical contests between competitors of similar ability and the fourth quartile represents contests between competitors with large asymmetries in ability.  Contests stopped early (such as by knockout) were scored as highly asymmetric contests and coded in the fourth quartile.

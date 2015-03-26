@@ -1,0 +1,273 @@
+"Weight Class","Red Boxer ID","Blue Boxer ID","Round of Competition","Winner","Method of Win","Points Scored by Red","Points Scored by Blue"
+"48kg",4804,4805,"Last 32","Red","Points",20,8
+"48kg",4806,4807,"Last 32","Red","Points",48,25
+"48kg",4808,4809,"Last 32","Blue","Referee Stopped Contest - Outscored",,
+"48kg",4810,4811,"Last 32","Red","Points",22,7
+"48kg",4812,4813,"Last 32","Blue","Points",8,23
+"48kg",4814,4815,"Last 32","Blue","Points",9,22
+"48kg",4816,4817,"Last 32","Red","Points",26,21
+"48kg",4818,4819,"Last 32","Red","Points",21,7
+"48kg",4820,4821,"Last 32","Blue","Points",20,27
+"48kg",4822,4823,"Last 32","Red","Referee Stopped Contest - Outscored",,
+"48kg",4824,4825,"Last 32","Blue","Points",12,17
+"48kg",4826,4827,"Last 32","Red","Referee Stopped Contest - Outscored",,
+"48kg",4828,4829,"Last 32","Red","Points",26,14
+"48kg",4801,4802,"Last 16","Blue","Points",20,29
+"48kg",4803,4804,"Last 16","Blue","Points",16,41
+"48kg",4806,4809,"Last 16","Blue","Points",35,49
+"48kg",4810,4813,"Last 16","Red","Points",23,20
+"48kg",4815,4816,"Last 16","Red","Points",31,8
+"48kg",4818,4821,"Last 16","Blue","Points",11,24
+"48kg",4822,4825,"Last 16","Red","Points",42,25
+"48kg",4826,4828,"Last 16","Red","Points",23,14
+"48kg",4802,4804,"Quarterfinals","Blue","Points",11,18
+"48kg",4809,4810,"Quarterfinals","Blue","Points",24,33
+"48kg",4815,4821,"Quarterfinals","Red","Points",20,12
+"48kg",4822,4826,"Quarterfinals","Blue","Points",11,30
+"48kg",4804,4810,"Semifinals","Blue","Points",26,20
+"48kg",4815,4826,"Semifinals","Blue","Points",17,29
+"48kg",4810,4826,"Final","Blue","Points",16,21
+"51kg",5105,5106,"Last 32","Red","Points",22,12
+"51kg",5107,5108,"Last 32","Red","Points",46,23
+"51kg",5109,5110,"Last 32","Red","Points",42,23
+"51kg",5111,5112,"Last 32","Blue","Points",15,26
+"51kg",5113,5114,"Last 32","Blue","Points",19,25
+"51kg",5115,5116,"Last 32","Red","Points",25,20
+"51kg",5117,5118,"Last 32","Red","Points",24,14
+"51kg",5119,5120,"Last 32","Blue","Walk Over",,
+"51kg",5121,5122,"Last 32","Blue","Points",16,37
+"51kg",5123,5124,"Last 32","Red","Points",26,18
+"51kg",5125,5126,"Last 32","Red","Points",32,18
+"51kg",5127,5128,"Last 32","Blue","Points",26,36
+"51kg",5101,5102,"Last 16","Red","Points",25,15
+"51kg",5103,5104,"Last 16","Red","Points",39,19
+"51kg",5105,5107,"Last 16","Blue","Points",16,21
+"51kg",5109,5112,"Last 16","Blue","Points",20,29
+"51kg",5114,5115,"Last 16","Red","Points",33,20
+"51kg",5117,5120,"Last 16","Blue","Points",21,27
+"51kg",5122,5123,"Last 16","Red","Points",36,17
+"51kg",5125,5128,"Last 16","Blue","Points",22,45
+"51kg",5101,5103,"Quarterfinals","Red","Points",28,15
+"51kg",5107,5112,"Quarterfinals","Red","Points",26,18
+"51kg",5114,5120,"Quarterfinals","Blue","Points",23,24
+"51kg",5122,5128,"Quarterfinals","Red","Points",25,16
+"51kg",5101,5107,"Semifinals","Blue","Points",11,20
+"51kg",5120,5122,"Semifinals","Blue","Points",18,23
+"51kg",5107,5122,"Final","Red","Points",38,23
+"54kg",5406,5407,"Last 32","Red","Points",19,16
+"54kg",5408,5409,"Last 32","Red","Points",36,22
+"54kg",5410,5411,"Last 32","Red","Points",21,7
+"54kg",5412,5413,"Last 32","Red","Points",27,19
+"54kg",5414,5415,"Last 32","Red","Referee Stopped Contest - Outscored",,
+"54kg",5416,5417,"Last 32","Red","Points",23,17
+"54kg",5418,5419,"Last 32","Red","Points",25,17
+"54kg",5420,5421,"Last 32","Blue","Points",27,36
+"54kg",5422,5423,"Last 32","Blue","Points",24,30
+"54kg",5424,5425,"Last 32","Blue","Referee Stopped Contest - Outscored",,
+"54kg",5426,5427,"Last 32","Blue","Referee Stopped Contest - Outscored",,
+"54kg",5401,5402,"Last 16","Red","Points",37,20
+"54kg",5403,5404,"Last 16","Blue","Referee Stopped Contest - Outscored",,
+"54kg",5405,5406,"Last 16","Red","Points",23,20
+"54kg",5408,5410,"Last 16","Blue","Referee Stopped Contest - Outscored",,
+"54kg",5412,5414,"Last 16","Blue","Points",18,33
+"54kg",5416,5418,"Last 16","Red","Referee Stopped Contest - Outscored",,
+"54kg",5421,5423,"Last 16","Blue","Points",24,27
+"54kg",5425,5427,"Last 16","Red","Points",35,16
+"54kg",5401,5404,"Quarterfinals","Blue","Points",32,44
+"54kg",5405,5410,"Quarterfinals","Blue","Points",5,20
+"54kg",5414,5416,"Quarterfinals","Red","Points",29,14
+"54kg",5423,5425,"Quarterfinals","Blue","Points",12,32
+"54kg",5404,5410,"Semifinals","Blue","Points",13,27
+"54kg",5414,5425,"Semifinals","Red","Points",27,19
+"54kg",5410,5414,"Final","Red","Points",23,13
+"57kg",5705,5706,"Last 32","Blue","Points",15,32
+"57kg",5707,5798,"Last 32","Red","Points",43,43
+"57kg",5709,5710,"Last 32","Red","Points",38,13
+"57kg",5711,5712,"Last 32","Red","Referee Stopped Contest - Outscored",,
+"57kg",5713,5714,"Last 32","Blue","Points",18,32
+"57kg",5715,5716,"Last 32","Red","Points",40,15
+"57kg",5717,5718,"Last 32","Red","Points",37,28
+"57kg",5719,5720,"Last 32","Red","Points",32,17
+"57kg",5721,5722,"Last 32","Red","Referee Stopped Contest - Outscored",,
+"57kg",5723,5724,"Last 32","Red","Referee Stopped Contest - Outscored",,
+"57kg",5725,5726,"Last 32","Blue","Referee Stopped Contest - Outscored",,
+"57kg",5727,5728,"Last 32","Red","Points",37,17
+"57kg",5701,5702,"Last 16","Red","Points",25,16
+"57kg",5703,5704,"Last 16","Red","Points",25,14
+"57kg",5706,5707,"Last 16","Red","Points",30,15
+"57kg",5709,5711,"Last 16","Blue","Points",26,40
+"57kg",5714,5715,"Last 16","Blue","Points",13,38
+"57kg",5717,5719,"Last 16","Red","Points",28,16
+"57kg",5721,5723,"Last 16","Blue","Points",22,40
+"57kg",5726,5727,"Last 16","Blue","Referee Stopped Contest",,
+"57kg",5701,5703,"Quarterfinals","Blue","Points",11,32
+"57kg",5706,5711,"Quarterfinals","Blue","Points",26,34
+"57kg",5715,5717,"Quarterfinals","Blue","Points",35,39
+"57kg",5723,5727,"Quarterfinals","Blue","Points",26,36
+"57kg",5703,5711,"Semifinals","Red","Points",29,24
+"57kg",5717,5727,"Semifinals","Blue","Points",25,45
+"57kg",5703,5727,"Final","Blue","Points",17,39
+"60kg",6005,6006,"Last 32","Blue","Points",11,20
+"60kg",6007,6008,"Last 32","Blue","Referee Stopped Contest - Outscored",,
+"60kg",6009,6010,"Last 32","Blue","Points",23,30
+"60kg",6011,6012,"Last 32","Red","Points",29,23
+"60kg",6013,6014,"Last 32","Blue","Referee Stopped Contest - Outscored",,
+"60kg",6015,6016,"Last 32","Red","Points",22,14
+"60kg",6017,6018,"Last 32","Red","Points",21,17
+"60kg",6019,6020,"Last 32","Red","Referee Stopped Contest - Outscored",,
+"60kg",6021,6022,"Last 32","Red","Points",30,22
+"60kg",6023,6024,"Last 32","Blue","Points",24,39
+"60kg",6025,6026,"Last 32","Blue","Points",8,27
+"60kg",6027,6028,"Last 32","Blue","Points",29,40
+"60kg",6001,6002,"Last 16","Blue","Points",18,37
+"60kg",6003,6004,"Last 16","Blue","Points",16,28
+"60kg",6006,6008,"Last 16","Blue","Points",21,37
+"60kg",6010,6011,"Last 16","Red","Points",33,22
+"60kg",6014,6015,"Last 16","Blue","Points",18,36
+"60kg",6017,6019,"Last 16","Blue","Points",9,24
+"60kg",6021,6024,"Last 16","Red","Points",24,22
+"60kg",6026,6028,"Last 16","Blue","Referee Stopped Contest - Outscored",,
+"60kg",6002,6004,"Quarterfinals","Blue","Points",23,29
+"60kg",6008,6010,"Quarterfinals","Red","Referee Stopped Contest",,
+"60kg",6015,6019,"Quarterfinals","Blue","Points",11,23
+"60kg",6021,6028,"Quarterfinals","Blue","Points",18,31
+"60kg",6004,6008,"Semifinals","Blue","Points",26,40
+"60kg",6019,6028,"Semifinals","Red","Points",20,10
+"60kg",6008,6019,"Final","Blue","Points",22,30
+"64kg",6406,6407,"Last 32","Red","Referee Stopped Contest - Outscored",,
+"64kg",6408,6409,"Last 32","Red","Points",42,40
+"64kg",6410,6411,"Last 32","Blue","Points",31,48
+"64kg",6412,6413,"Last 32","Blue","Points",16,26
+"64kg",6414,6415,"Last 32","Blue","Points",35,42
+"64kg",6416,6417,"Last 32","Blue","Points",14,36
+"64kg",6418,6419,"Last 32","Blue","Referee Stopped Contest - Outscored",,
+"64kg",6420,6421,"Last 32","Blue","Points",11,26
+"64kg",6422,6423,"Last 32","Red","Points",25,20
+"64kg",6424,6425,"Last 32","Red","Points",37,30
+"64kg",6426,6427,"Last 32","Blue","Points",22,51
+"64kg",6401,6402,"Last 16","Blue","Referee Stopped Contest - Outscored",,
+"64kg",6403,6404,"Last 16","Red","Points",26,16
+"64kg",6405,6406,"Last 16","Blue","Points",10,30
+"64kg",6408,6411,"Last 16","Blue","Points",13,33
+"64kg",6413,6415,"Last 16","Red","Points",29,15
+"64kg",6417,6419,"Last 16","Red","Points",28,20
+"64kg",6421,6422,"Last 16","Red","Points",28,19
+"64kg",6424,6427,"Last 16","Red","Points",33,25
+"64kg",6402,6403,"Quarterfinals","Red","Points",32,28
+"64kg",6406,6411,"Quarterfinals","Red","Points",20,18
+"64kg",6413,6417,"Quarterfinals","Red","Points",20,8
+"64kg",6421,6424,"Quarterfinals","Red","Points",29,18
+"64kg",6402,6406,"Semifinals","Red","Points",13,9
+"64kg",6413,6421,"Semifinals","Red","Points",30,9
+"64kg",6402,6413,"Final","Blue","Points",17,11
+"69kg",6905,6906,"Last 32","Red","Points",45,20
+"69kg",6907,6908,"Last 32","Blue","Referee Stopped Contest - Outscored",,
+"69kg",6909,6910,"Last 32","Red","Referee Stopped Contest",,
+"69kg",6911,6912,"Last 32","Blue","Points",17,29
+"69kg",6913,6914,"Last 32","Blue","Points",32,45
+"69kg",6915,6916,"Last 32","Blue","Points",20,33
+"69kg",6917,6918,"Last 32","Blue","Points",12,42
+"69kg",6919,6920,"Last 32","Red","Points",30,15
+"69kg",6921,6922,"Last 32","Blue","Points",27,54
+"69kg",6923,6924,"Last 32","Red","Points",36,34
+"69kg",6925,6926,"Last 32","Red","Walk Over",,
+"69kg",6927,6928,"Last 32","Blue","Points",21,54
+"69kg",6901,6902,"Last 16","Red","Points",33,24
+"69kg",6903,6904,"Last 16","Red","Points",23,20
+"69kg",6905,6908,"Last 16","Blue","Points",11,20
+"69kg",6909,6912,"Last 16","Red","Points",26,16
+"69kg",6914,6916,"Last 16","Blue","Points",9,23
+"69kg",6918,6919,"Last 16","Blue","Points",17,18
+"69kg",6922,6923,"Last 16","Red","Points",32,25
+"69kg",6925,6928,"Last 16","Red","Points",33,23
+"69kg",6901,6903,"Quarterfinals","Blue","Points",23,25
+"69kg",6908,6909,"Quarterfinals","Red","Points",16,14
+"69kg",6916,6919,"Quarterfinals","Blue","Points",14,22
+"69kg",6922,6925,"Quarterfinals","Blue","Referee Stopped Contest - Outscored",,
+"69kg",6903,6908,"Semifinals","Blue","Points",10,38
+"69kg",6919,6925,"Semifinals","Blue","Points",18,20
+"69kg",6908,6925,"Final","Blue","Points",26,36
+"75kg",7505,7506,"Last 32","Red","Points",41,36
+"75kg",7507,7508,"Last 32","Red","Points",25,18
+"75kg",7509,7510,"Last 32","Red","Points",36,24
+"75kg",7511,7512,"Last 32","Red","Points",29,24
+"75kg",7513,7514,"Last 32","Red","Points",35,13
+"75kg",7515,7516,"Last 32","Red","Points",36,14
+"75kg",7517,7518,"Last 32","Red","Points",38,23
+"75kg",7519,7520,"Last 32","Red","Points",22,22
+"75kg",7521,7522,"Last 32","Red","Points",32,31
+"75kg",7523,7524,"Last 32","Red","Points",30,21
+"75kg",7525,7526,"Last 32","Red","Points",24,23
+"75kg",7527,7528,"Last 32","Red","Points",25,22
+"75kg",7501,7502,"Last 16","Blue","Points",10,31
+"75kg",7503,7504,"Last 16","Red","Points",36,24
+"75kg",7505,7507,"Last 16","Blue","Referee Stopped Contest - Outscored",,
+"75kg",7509,7511,"Last 16","Red","Points",38,25
+"75kg",7513,7515,"Last 16","Red","Points",33,19
+"75kg",7517,7519,"Last 16","Blue","Points",27,27
+"75kg",7521,7523,"Last 16","Blue","Points",19,19
+"75kg",7525,7527,"Last 16","Blue","Points",24,34
+"75kg",7502,7503,"Quarterfinals","Red","Points",31,20
+"75kg",7507,7509,"Quarterfinals","Red","Points",12,11
+"75kg",7513,7519,"Quarterfinals","Red","Points",26,13
+"75kg",7523,7527,"Quarterfinals","Red","Points",28,22
+"75kg",7502,7507,"Semifinals","Red","Points",23,18
+"75kg",7513,7523,"Semifinals","Red","Points",24,18
+"75kg",7502,7513,"Final","Blue","Points",18,28
+"81kg",8105,8106,"Last 32","Blue","Points",19,25
+"81kg",8107,8108,"Last 32","Blue","Points",11,21
+"81kg",8109,8110,"Last 32","Red","Referee Stopped Contest - Outscored",,
+"81kg",8111,8112,"Last 32","Red","Points",34,22
+"81kg",8113,8114,"Last 32","Red","Points",36,20
+"81kg",8115,8116,"Last 32","Blue","Points",22,44
+"81kg",8117,8118,"Last 32","Blue","Points",17,32
+"81kg",8119,8120,"Last 32","Blue","Points",22,27
+"81kg",8121,8122,"Last 32","Red","Points",24,16
+"81kg",8123,8124,"Last 32","Red","Referee Stopped Contest",,
+"81kg",8125,8126,"Last 32","Red","Points",29,10
+"81kg",8127,8128,"Last 32","Red","Points",31,23
+"81kg",8101,8102,"Last 16","Blue","Points",18,30
+"81kg",8103,8104,"Last 16","Red","Points",17,9
+"81kg",8106,8108,"Last 16","Blue","Points",19,31
+"81kg",8109,8111,"Last 16","Red","Points",27,19
+"81kg",8113,8116,"Last 16","Blue","Points",22,38
+"81kg",8118,8120,"Last 16","Red","Points",31,16
+"81kg",8121,8123,"Last 16","Red","Points",17,9
+"81kg",8125,8127,"Last 16","Red","Points",18,10
+"81kg",8102,8103,"Quarterfinals","Blue","Points",16,23
+"81kg",8108,8109,"Quarterfinals","Red","Points",16,11
+"81kg",8116,8118,"Quarterfinals","Red","Referee Stopped Contest - Outscored",,
+"81kg",8121,8125,"Quarterfinals","Blue","Points",18,27
+"81kg",8103,8108,"Semifinals","Red","Points",17,15
+"81kg",8116,8125,"Semifinals","Blue","Points",20,23
+"81kg",8103,8125,"Final","Red","Points",20,13
+"91kg",9101,9102,"Last 16","Red","Points",24,21
+"91kg",9103,9104,"Last 16","Blue","Walk Over",,
+"91kg",9105,9106,"Last 16","Blue","Points",17,30
+"91kg",9107,9108,"Last 16","Red","Points",18,14
+"91kg",9109,9110,"Last 16","Blue","Referee Stopped Contest - Outscored",,
+"91kg",9111,9112,"Last 16","Red","Referee Stopped Contest",,
+"91kg",9113,9114,"Last 16","Red","Points",18,18
+"91kg",9115,9116,"Last 16","Blue","Points",22,32
+"91kg",9101,9104,"Quarterfinals","Red","Points",24,4
+"91kg",9106,9107,"Quarterfinals","Red","Disqualified",,
+"91kg",9110,9111,"Quarterfinals","Blue","Points",27,36
+"91kg",9113,9116,"Quarterfinals","Red","Points",27,12
+"91kg",9101,9106,"Semifinals","Red","Referee Stopped Contest - Outscored",,
+"91kg",9111,9113,"Semifinals","Red","Walk Over",,
+"91kg",9101,9111,"Final","Red","Points",22,13
+"91+kg",9201,9202,"Last 16","Red","Referee Stopped Contest",,
+"91+kg",9203,9204,"Last 16","Blue","Points",18,28
+"91+kg",9205,9206,"Last 16","Blue","Points",13,29
+"91+kg",9207,9208,"Last 16","Red","Points",23,5
+"91+kg",9209,9210,"Last 16","Red","Points",32,19
+"91+kg",9211,9212,"Last 16","Blue","Points",17,26
+"91+kg",9213,9214,"Last 16","Red","Points",18,13
+"91+kg",9215,9216,"Last 16","Red","Points",30,11
+"91+kg",9201,9204,"Quarterfinals","Red","Points",31,15
+"91+kg",9206,9207,"Quarterfinals","Red","Points",23,21
+"91+kg",9209,9212,"Quarterfinals","Red","Points",19,11
+"91+kg",9213,9215,"Quarterfinals","Red","Points",21,7
+"91+kg",9201,9206,"Semifinals","Red","Points",31,19
+"91+kg",9209,9213,"Semifinals","Red","Points",18,16
+"91+kg",9201,9209,"Final","Red","Walk Over",,

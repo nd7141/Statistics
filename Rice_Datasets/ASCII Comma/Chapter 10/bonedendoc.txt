@@ -1,0 +1,38 @@
+BONEDEN DOCUMENTATION
+---------------------------------------------------------------------
+Variable    Column       Code
+---------------------------------------------------------------------
+ID           2-8
+Age          9-11        Age (yrs)
+zyg         12-14        1=mz 2=dz
+
+    Twin 1
+
+ht1         15-19        Height (cm)
+wt1         20-24        Weight (kg)
+tea1        25-29        Tea  (cups/week)
+cof1        30-34        Coffee  (cups/week)
+alc1        35-39        Alcohol  (drinks/week)
+cur1        40-44        Current Smoking (cigarretes/day)
+men1        45-49        Menopause Status (1=pre/2=post/3=unknown hysterectomy)
+pyr1        50-55        Pack-years smoking
+ls1         56-61        Lumbar spine (g/cm**2)
+fn1         62-67        Femoral neck (g/cm**2)
+fs1         68-73        Femoral shaft (g/cm**2)
+
+      Twin 2
+
+ht2         74-78        Height (cm)
+wt2         79-83        Weight (kg)
+tea2        84-88        Tea  (cups/week)
+cof2        89-93        Coffee  (cups/week)
+alc2        94-98        Alcohol  (drinks/week)
+cur2        99-103       Current Smoking (cigarretes/day)
+men2       104-108       Menopause Status (1=pre/2=post/3=unknown hysterectomy)
+pyr2       109-114       Pack-years smoking
+ls2        115-120       Lumbar spine (g/cm**2)
+fn2        121-126       Femoral neck (g/cm**2)
+fs2        127-132       Femoral shaft (g/cm**2)
+---------------------------------------------------------------------
+
+
