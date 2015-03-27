@@ -40,3 +40,7 @@ critical = 160 # critical value for n1=n2=14 with .05 conf level
 # nonparametric test rejects at the .05 significance level
 #TODO perform t-test
 
+# t test
+t <- -mean_d/s_mean
+critical_t <- 2.048 # t test at the significance level .05
+critical_t < t # True, thus t test rejects at the .05 significance level
